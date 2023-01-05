@@ -21,6 +21,8 @@ Things you may want to cover:
   
   7. rails 6.0.6
   
+* Running development - rails s
+  
 * Running test - After bundle, rspec.
 
   
