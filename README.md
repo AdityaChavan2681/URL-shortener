@@ -14,5 +14,7 @@ Things you may want to cover:
   5. npm version 9.2.0
   6. rvm 1.29.12
   7. rails 6.0.6
+  
+* Running test - After bundle, rspec.
 
   
