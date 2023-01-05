@@ -15,17 +15,4 @@ Things you may want to cover:
   6. rvm 1.29.12
   7. rails 6.0.6
 
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite - bundle install, rspec.
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  
