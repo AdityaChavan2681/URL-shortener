@@ -1,0 +1,16 @@
+<div class="container p-5">
+    <div class="card p-5">
+    <strong>Enter a Url to shorten</strong>
+
+        <%= form_with model: @link, remote: true do |form| %>
+            <%= form.text_field :original_url %>
+            <%= form.submit %>
+        <% end %>
+
+        <div id="short-link">
+
+        </div>
+    </div>
+</div>
+
+
